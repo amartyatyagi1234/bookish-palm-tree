@@ -51,8 +51,8 @@ p{
 #cloud_left
     {
         position: relative;
-        left: 55px;
-        bottom: 250px;
+        left: 3.43rem;
+        bottom: 15.625rem;
         width: 8%;
     }
 .mountain
@@ -64,8 +64,8 @@ p{
 #cloud_second
     {
     position: relative;
-    bottom:100px;
-    left:100px;
+    bottom:6.25rem;
+    left:6.25rem;
     width:8%;
     }
 .profilePicture{
